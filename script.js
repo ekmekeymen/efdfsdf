@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-    "Sevmiyormusun?",
-    "Gerçektenmi??",
-    "Eminmisin?",
-    "Kalbini kırıyorsun...",
+    "Hayır",
+    "Hayırrrr",
+    "kalmıyorum kardeşim!",
+    "Yok kalmıyorum",
     "Bence tekrar düşün!",
-    "Eğer hayır dersen çok üzülür...",
-    "Çok üzgün...",
-    "Osssura Ossssura ağlıyo...",
-    "APTAL BİRDAHA HAYIR DERSEN DÖGÜYE GİRECEKSİN🤬",
+    "Düşündüm ve kalmıyorum!",
+    "Belki...",
+    "Yok kalmıyom...",
+    "A-ama...",
     "EVET DE ARTIK!!!!!!!!"
 ];
 
